@@ -13,7 +13,7 @@
       "frameId": "frame1Z",
       "title": "Título general",
       "timeoutMs": 5000,
-      "timeoutEnable": false,
+      "timeoutEnable": true,
       "transitionDurationMs": 1000,
       "showInFrameList": true,
       "showFrameNumber": true,
@@ -111,7 +111,7 @@
           "referenceElementId": "asdasdas",
           "outlineElementId": "asdasdas",
           "outlineElementAuto": false,
-          "transitionTimingFunction": "easeOut",
+          "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -155,7 +155,7 @@
           "referenceElementId": "rect3308-9-1",
           "outlineElementId": "rect3308-9-1",
           "outlineElementAuto": false,
-          "transitionTimingFunction": "easeOut",
+          "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -287,7 +287,7 @@
           "referenceElementId": "rect3308-9-1-2",
           "outlineElementId": "rect3308-9-1-2",
           "outlineElementAuto": false,
-          "transitionTimingFunction": "easeOut",
+          "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -991,7 +991,7 @@
           "referenceElementId": "rect3308-2-62-3-7-3-6-2",
           "outlineElementId": "rect3308-2-62-3-7-3-6-2",
           "outlineElementAuto": false,
-          "transitionTimingFunction": "easeOut",
+          "transitionTimingFunction": "easeInOut",
           "transitionRelativeZoom": 0,
           "transitionPathId": ""
         }
@@ -1110,8 +1110,8 @@
       }
     },
     {
-      "frameId": "frame26F",
-      "title": "Coproducido por",
+      "frameId": "frame26C",
+      "title": "INAP",
       "timeoutMs": 5000,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1120,8 +1120,8 @@
       "layerProperties": {
         "__sozi_auto__": {
           "link": false,
-          "referenceElementId": "rect3308-9-1-5-5-3",
-          "outlineElementId": "rect3308-9-1-5-5-3",
+          "referenceElementId": "g7707",
+          "outlineElementId": "g7707",
           "outlineElementAuto": false,
           "transitionTimingFunction": "easeOut",
           "transitionRelativeZoom": 0,
@@ -1130,10 +1130,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 5291.76953125,
-          "cy": -416.73468017578125,
-          "width": 1414.39208984375,
-          "height": 749.804931640625,
+          "cx": 5254.23876953125,
+          "cy": -418.07952880859375,
+          "width": 1329.2447662353513,
+          "height": 747.7001810073851,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -1147,15 +1147,15 @@
         "__sozi_auto__": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1,
+          "widthFactor": 0.9999999999999997,
+          "heightFactor": 0.9999999999999997,
           "deltaAngle": 0
         }
       }
     },
     {
       "frameId": "frame27",
-      "title": "final",
+      "title": "SM-PN",
       "timeoutMs": 5000,
       "timeoutEnable": false,
       "transitionDurationMs": 1000,
@@ -1164,8 +1164,8 @@
       "layerProperties": {
         "__sozi_auto__": {
           "link": false,
-          "referenceElementId": "rect3308-9-1-5-5-3-7",
-          "outlineElementId": "rect3308-9-1-5-5-3-7",
+          "referenceElementId": "g7901",
+          "outlineElementId": "g7901",
           "outlineElementAuto": false,
           "transitionTimingFunction": "easeOut",
           "transitionRelativeZoom": 0,
@@ -1174,10 +1174,10 @@
       },
       "cameraStates": {
         "__sozi_auto__": {
-          "cx": 6727.7578125,
-          "cy": -416.7379150390625,
-          "width": 1452.26171875,
-          "height": 749.6439208984375,
+          "cx": 6668.857421875,
+          "cy": -412.3478088378906,
+          "width": 1339.7941303253172,
+          "height": 753.6341983079909,
           "opacity": 1,
           "angle": 0,
           "clipped": true,
@@ -1191,8 +1191,8 @@
         "__sozi_auto__": {
           "deltaX": 0,
           "deltaY": 0,
-          "widthFactor": 1,
-          "heightFactor": 1,
+          "widthFactor": 0.9999999999999997,
+          "heightFactor": 0.9999999999999997,
           "deltaAngle": 0
         }
       }
