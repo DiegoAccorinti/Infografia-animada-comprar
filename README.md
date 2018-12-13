@@ -1,1 +1,1 @@
-# Infografia-animada-comprar
+# Infografías animadas JS + SMIL + SOZI
