@@ -1,0 +1,5 @@
+     <animate xlink:href="#tilde1" attributeName="opacity" from="0" to="1" values="0;1;1;1;1;1;0" dur="7s" repeatDur="indefinite"/>
+     <animate xlink:href="#tilde2" attributeName="opacity" from="0" to="1" values="0;0;1;1;1;1;0" dur="7s" repeatDur="indefinite" />
+     <animate xlink:href="#tilde3" attributeName="opacity" from="0" to="1" values="0;0;0;1;1;1;0" dur="7s"  repeatDur="indefinite"/>
+     <animate xlink:href="#tilde4" attributeName="opacity" from="0" to="1" values="0;0;0;0;1;1;0" dur="7s" repeatDur="indefinite" />
+     <animate xlink:href="#tilde5" attributeName="opacity" from="0" to="1" values="0;0;0;0;0;1;0" dur="7s" repeatDur="indefinite" />
